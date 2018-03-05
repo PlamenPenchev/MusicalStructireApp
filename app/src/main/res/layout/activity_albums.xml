@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/go_back_albums_top"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_margin="8dp"
+        android:background="@color/backButton"
+        android:text="@string/go_back" />
+
+    <GridView
+        android:id="@+id/albums_grid"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="16dp"
+        android:numColumns="2"
+        android:gravity="center"
+        android:stretchMode="columnWidth"
+        tools:context="com.example.punked.musicalstructureapp.ArtistsActivity">
+
+    </GridView>
+
+</LinearLayout>

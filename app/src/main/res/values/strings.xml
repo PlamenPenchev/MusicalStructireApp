@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Musical Structure App</string>
+    <string name="artists">Artists</string>
+    <string name="albums">Albums</string>
+    <string name="songs">Library</string>
+    <string name="titles">Titles</string>
+    <string name="go_back">Go Back</string>
+    <string name="exit">Exit</string>
+    <string name="album_details">Album Details</string>
+    <string name="artist_details">Artist Details</string>
+    <string name="main_activity_info">This is the Main Screen of the app where the User can browse any of the sections</string>
+</resources>
