@@ -1,0 +1,3 @@
+# MusicalStructireApp
+This is my 4th project for the Google Developer Challenge Scholarship: Android Basics from Udacity. The goal of this project is to design and layout a music playing app that displays the list of available songs in a ListView or a GridView, navigates to a details screen of the currently playing song, and uses explicit intents to navigate around the app.  Data about each song is stored in a custom class that is retrieved and displayed via a Loop and Adapter. Additionally I've added a pseudo DB to hold the songs and relief the code complexity.
+<img src="https://i.imgur.com/yd7mZis.jpg"></img>
